@@ -1,0 +1,366 @@
+[config]
+path = "C:/Users/alby/Desktop/tpwar_targets/god/god.xml"
+# factions =[
+# "yaki",
+# "usc",
+# "heartofalbion",
+# "sonraenergy",
+# ]
+# factions =[
+# "terrapmc",
+# "otas",
+# "buccaneers",
+# "reivers",
+# "terrans",
+# "nolimits",
+# "uguras",]
+# factions = ["atlas",
+# "sovsyn",
+# "cartel",
+# "agi",]
+factions = [
+"goner",
+# "wholefood",
+"ledda",
+#"telunion",
+#"aldrin",
+#"cantera",
+#"toride",
+#"nmmc",
+"atreus",
+"jonferson",
+"aquariuscorp",
+#"ptni",
+"strongarms",
+"plutarch",
+"albionenergy",
+"terracorp",
+#"franton",
+#"chow",
+"beryll",]
+
+# factions = [
+# # "goner",
+# "wholefood",
+# # "ledda",
+# "telunion",
+# "aldrin",
+# "cantera",
+# "toride",
+# "nmmc",
+# # "atreus",
+# # "jonferson",
+# # "aquariuscorp",
+# "ptni",
+# # "strongarms",
+# # "plutarch",
+# # "albionenergy",
+# # "terracorp",
+# "franton",
+# "chow",
+# # "beryll",
+# ]
+types = ["piratebase", "tradestation", "defence", "wharf", "equipmentdock", "shipyard" ]
+# types = ["piratebase", "defence"]
+# types = ["piratebase"]
+quota = [1,2,3,4]
+# [config.pirates]
+# claim_types = ["tradestation", "defence", "wharf", "equipmentdock", "shipyard" ]
+# non_claim_types = ["piratebase", "factory"]
+# # sectors = ["pizza", "sauce"]
+# ownerless = true
+# claim = true
+# claim_quota = [3,6]
+# quota = [10,20]
+# trade = true
+# race = ["telaid", "argon", "paranid"]
+
+# factions = ["atlas",
+# "sovsyn",
+# "cartel",
+# "agi",]
+
+# factions = [
+# "goner",
+# "wholefood",
+# "ledda",
+# "telunion",
+# "aldrin",
+# "cantera",
+# "toride",
+# "nmmc",
+# "atreus",
+# "jonferson",
+# "aquariuscorp",
+# "ptni",
+# "strongarms",
+# "plutarch",
+# "albionenergy",
+# "terracorp",
+# "franton",
+# "chow",
+# "beryll",]
+products = [
+"advancedcomposites",
+"advancedelectronics",
+"antimattercells",
+"antimatterconverters",
+"claytronics",
+"dronecomponents",
+"energycells",
+"engineparts",
+"fieldcoils",
+"foodrations",
+"graphene",
+"hullparts",
+"meat",
+"medicalsupplies",
+"microchips",
+"missilecomponents",
+"plasmaconductors",
+"quantumtubes",
+"refinedmetals",
+"scanningarrays",
+"shieldcomponents",
+"siliconwafers",
+"smartchips",
+"spacefuel",
+"spacefuel",
+"spices",
+"superfluidcoolant",
+"turretcomponents",
+"water",
+"weaponcomponents",
+"wheat",
+"advancedcomposites",
+"advancedelectronics",
+"antimattercells",
+"antimatterconverters",
+"claytronics",
+"dronecomponents",
+"energycells",
+"engineparts",
+"fieldcoils",
+"foodrations",
+"graphene",
+"hullparts",
+"meat",
+"medicalsupplies",
+"microchips",
+"missilecomponents",
+"plasmaconductors",
+"quantumtubes",
+"refinedmetals",
+"scanningarrays",
+"shieldcomponents",
+"siliconwafers",
+"smartchips",
+"spacefuel",
+"spices",
+"superfluidcoolant",
+"turretcomponents",
+"water",
+"weaponcomponents",
+"wheat",
+"advancedcomposites",
+"advancedcomposites",
+"advancedelectronics",
+"advancedelectronics",
+"antimattercells",
+"antimattercells",
+"antimatterconverters",
+"antimatterconverters",
+"claytronics",
+"claytronics",
+"dronecomponents",
+"dronecomponents",
+"energycells",
+"energycells",
+"engineparts",
+"engineparts",
+"fieldcoils",
+"fieldcoils",
+"graphene",
+"graphene",
+"hullparts",
+"hullparts",
+"majadust",
+"majasnails",
+"majasnails",
+"majasnails",
+"medicalsupplies",
+"medicalsupplies",
+"microchips",
+"microchips",
+"missilecomponents",
+"missilecomponents",
+"plasmaconductors",
+"plasmaconductors",
+"quantumtubes",
+"quantumtubes",
+"refinedmetals",
+"refinedmetals",
+"scanningarrays",
+"scanningarrays",
+"shieldcomponents",
+"shieldcomponents",
+"siliconwafers",
+"siliconwafers",
+"smartchips",
+"smartchips",
+"sojabeans",
+"sojabeans",
+"sojahusk",
+"sojahusk",
+"spices",
+"spices",
+"superfluidcoolant",
+"superfluidcoolant",
+"turretcomponents",
+"turretcomponents",
+"water",
+"water",
+"weaponcomponents",
+"weaponcomponents",
+"advancedcomposites",
+"advancedelectronics",
+"antimattercells",
+"antimatterconverters",
+"claytronics",
+"dronecomponents",
+"energycells",
+"engineparts",
+"fieldcoils",
+"graphene",
+"hullparts",
+"medicalsupplies",
+"microchips",
+"missilecomponents",
+"nostropoil",
+"plasmaconductors",
+"quantumtubes",
+"scanningarrays",
+"shieldcomponents",
+"siliconwafers",
+"smartchips",
+"spaceweed",
+"spaceweed",
+"spices",
+"sunriseflowers",
+"superfluidcoolant",
+"swampplant",
+"teladianium",
+"turretcomponents",
+"water",
+"weaponcomponents",
+"energycells",
+]
+
+# factions = [
+#         "argon",
+#         "antigone",
+#         "agi",
+#         "goner",
+#         "wholefood",
+#         "ledda",
+#         "aldrin",
+#         "cantera",
+#         "toride",
+#         "jonferson",
+#         "plutarch",
+#         "terracorp",
+#         "beryll",
+#         "fred",
+#         "terrapmc",
+#         "otas",
+#         "terrans",
+#         "yaki",
+#         "usc",
+#         "heartofalbion",
+#         "sonraenergy",
+#         "teladi",
+#         "ministry",
+#         "telunion",
+#         "nmmc",
+#         "atreus",
+#         "ptni",
+#         "franton",
+#         "chow",
+#         "uguras" ,
+#         "paranid",
+#         "holyorder",
+#         "buccaneers",
+#         "heretics",
+#         "xenon",
+#         "xenonmatrix",
+#         "khaak",
+#         "khaakpox",
+#         "scaleplate",
+#         "hatikvah",
+#         "atlas",
+#         "sovsyn" ,
+#         "cartel",
+#         "strongarms",
+#         "plutarch",
+#         "terracorp",
+#         "beryll",
+#         "terrapmc",
+#         "reivers",
+#         "nolimits",
+#         "uguras",
+#         "yaki"
+#         ]
+
+
+# <owner faction= "argon"/>
+# <owner faction= "antigone"/>
+# <owner faction= "agi"/>
+# <owner faction= "goner"/>
+# <owner faction= "wholefood"/>
+# <owner faction= "ledda"/>
+# <owner faction= "aldrin"/>
+# <owner faction= "cantera"/>
+# <owner faction= "toride"/>
+# <owner faction= "jonferson"/>
+# <owner faction= "plutarch"/>
+# <owner faction= "terracorp"/>
+# <owner faction= "beryll"/>
+# <owner faction= "fred"/>
+# <owner faction= "terrapmc"/>
+# <owner faction= "otas"/>
+# <owner faction= "terrans"/>
+# <owner faction= "yaki"/>
+# <owner faction= "usc"/>
+# <owner faction= "heartofalbion"/>
+# <owner faction= "sonraenergy"/>
+# <owner faction= "teladi"/>
+# <owner faction= "ministry"/>
+# <owner faction= "telunion"/>
+# <owner faction= "nmmc"/>
+# <owner faction= "atreus"/>
+# <owner faction= "ptni"/>
+# <owner faction= "franton"/>
+# <owner faction= "chow"/>
+# <owner faction= "uguras"/>
+# <owner faction= "paranid"/>
+# <owner faction= "holyorder"/>
+# <owner faction= "buccaneers"/>
+# <owner faction= "heretics"/>
+# <owner faction= "xenon"/>
+# <owner faction= "xenonmatrix"/>
+# <owner faction= "khaak"/>
+# <owner faction= "khaakpox"/>
+# <owner faction= "scaleplate"/>
+# <owner faction= "hatikvah"/>
+# <owner faction= "atlas"/>
+# <owner faction= "sovsyn"/>
+# <owner faction= "cartel"/>
+# <owner faction= "strongarms"/>
+# <owner faction= "plutarch"/>
+# <owner faction= "terracorp"/>
+# <owner faction= "beryll"/>
+# <owner faction= "terrapmc"/>
+# <owner faction= "reivers"/>
+# <owner faction= "nolimits"/>
+# <owner faction= "uguras"/>
+# <owner faction= "yaki"/>
